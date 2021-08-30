@@ -1,3 +1,4 @@
+using AutoInject.Core;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +29,7 @@ namespace Shopmay.WebAPI
         {
 
             services.AddControllers();
+            services.LoadContainer(new List<string>());
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Shopmay.WebAPI", Version = "v1" });

@@ -18,12 +18,12 @@
 x64/
 x86/
 bld/
-bin/
-obj/
-log/
-Log/
-Bin/
-Obj/
+/bin/
+/obj/
+/log/
+/Log/
+/Bin/
+/Obj/
 
 
 # Visual Studio 2015 cache/options directory

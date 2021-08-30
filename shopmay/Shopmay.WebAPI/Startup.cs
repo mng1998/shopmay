@@ -29,7 +29,7 @@ namespace Shopmay.WebAPI
         {
 
             services.AddControllers();
-            services.LoadContainer(new List<string>());
+            services.LoadContainer(Configuration);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Shopmay.WebAPI", Version = "v1" });

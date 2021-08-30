@@ -356,3 +356,23 @@ baseline.json
 .husky/_
 
 /shopmay/Shopmay.Application/obj/
+/shopmay/Shopmay.Common/obj/Shopmay.Common.csproj.nuget.dgspec.json
+/shopmay/Shopmay.Common/obj/Shopmay.Common.csproj.nuget.g.props
+/shopmay/Shopmay.Common/obj/Shopmay.Common.csproj.nuget.g.targets
+/shopmay/Shopmay.Common/obj/project.assets.json
+/shopmay/Shopmay.Domain/obj/Shopmay.Domain.csproj.nuget.dgspec.json
+/shopmay/Shopmay.Domain/obj/Shopmay.Domain.csproj.nuget.g.props
+/shopmay/Shopmay.Domain/obj/Shopmay.Domain.csproj.nuget.g.targets
+/shopmay/Shopmay.Domain/obj/project.assets.json
+/shopmay/Shopmay.Infrastructure/obj/Shopmay.Infrastructure.csproj.nuget.dgspec.json
+/shopmay/Shopmay.Infrastructure/obj/Shopmay.Infrastructure.csproj.nuget.g.props
+/shopmay/Shopmay.Infrastructure/obj/Shopmay.Infrastructure.csproj.nuget.g.targets
+/shopmay/Shopmay.Infrastructure/obj/project.assets.json
+/shopmay/Shopmay.Persistence/obj/Shopmay.Persistence.csproj.nuget.dgspec.json
+/shopmay/Shopmay.Persistence/obj/Shopmay.Persistence.csproj.nuget.g.props
+/shopmay/Shopmay.Persistence/obj/Shopmay.Persistence.csproj.nuget.g.targets
+/shopmay/Shopmay.Persistence/obj/project.assets.json
+/shopmay/Shopmay.WebAPI/obj/Shopmay.WebAPI.csproj.nuget.dgspec.json
+/shopmay/Shopmay.WebAPI/obj/Shopmay.WebAPI.csproj.nuget.g.props
+/shopmay/Shopmay.WebAPI/obj/Shopmay.WebAPI.csproj.nuget.g.targets
+/shopmay/Shopmay.WebAPI/obj/project.assets.json
